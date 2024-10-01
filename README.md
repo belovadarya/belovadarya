@@ -1,4 +1,4 @@
-## Hi! My name is Darya. I`m Junior Frontend Developer
+## Hi! My name is Darya
 
 #### Hard skills: 
 
